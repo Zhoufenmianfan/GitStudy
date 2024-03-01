@@ -9,4 +9,5 @@ step7：创建一个新的分支feature1，还是直接在main上修改文件
 step8：分支管理
 step9：工作的部分add到pool了
 step10：工作了一部分，但是还没add到pool
-
+step11：我自己加了一个功能
+step12：远程小伙加了一个功能
